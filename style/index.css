@@ -1,0 +1,45 @@
+
+#navbar{
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: right;
+  border: 1px solid;
+}
+#navbar>h3{
+  margin-left:5%;
+}
+#navbar>div{
+  margin-left:5%;
+}
+#coffee_count{
+  text-align: end;
+  border: 1px solid;
+  font-size: 20px;
+   width: 30px;
+ text-align: center;
+ padding-top: 1%;
+}
+#navbar>a{
+  margin-left: 5%;
+}
+#chota{
+height: 300px;
+width: 20%;
+border: 1px solid navy;
+border-radius: 5px;
+margin-top: 2%;
+}
+#pic{
+  width: 100%;
+  height: 50%;
+}
+#menu{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5%;
+  justify-content: space-evenly;
+}
+#add_to_bucket{
+margin-left: 35%;
+}
